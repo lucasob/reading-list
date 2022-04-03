@@ -3,6 +3,8 @@
 ## Mathsy Stuff
 * [Denotational Design - Conal Elliot](https://www.youtube.com/watch?v=bmKYiUOEo2A)
 * [Category Theory for Programmers - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+* [Monoids, Monads and Applicative Funcors](https://www.youtube.com/watch?v=giWCdQ7fnQU)
+* [Identifying Monoids: Exploiting Compositional Structure in Code](https://www.youtube.com/watch?v=INnattuluiM)
 
 ## Functional
 * Programming F# 3.0 - Chris Smith
